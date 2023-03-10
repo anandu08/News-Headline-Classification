@@ -1,5 +1,7 @@
 
-Find the [Preprocessed.csv](https://drive.google.com/file/d/1prAZYSOsdEtAhIkz2vH-CAC0rK1apQKx/view?usp=sharing)file here.
+Find the [Preprocessed.csv](https://drive.google.com/file/d/1prAZYSOsdEtAhIkz2vH-CAC0rK1apQKx/view?usp=sharing) file here.
+
+Download the above file and the notebook, and place them in the same directory to run the notebook.
 
 **Introduction**
 
